@@ -16,9 +16,9 @@ Hello everyone, my name is Melo, l have passion to learn how to use data telling
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  
 
-1. List item #1 Running my own e-commerce business.
-2. List item #2 Having more free to learn new things.
-3. List item #3 Traveling around the world.
+1. Running my own e-commerce business.
+2. Having more free to learn new things.
+3. Traveling around the world.
 
 
 # Portfolio
