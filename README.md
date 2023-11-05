@@ -45,6 +45,13 @@ All the things - obviously. Maybe I want to make a list of all the things.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
+Part 3 explanation:
+This visualization is using the line plot of top 6 countries in highest ranked debt-to-gdp ratio(which l found out from the part 2 heatmap rank) across different period of time, l put a reference line of starting date of Global Financial Crisis to check if the crisis actually make these countries getting higher debt-to-gdp ratio, l surprisingly found that Greece and Italia have experienced two years decrease in the ratio but the other four don't.
+I also intentionally use dotted line instead of solid line to be more visual-friendly since it will be diffcult to see the overlapping part if l use the solid line. The color sets l used are meant to differentiate from each other, it can easily be told by the audience which line respond to which countries.
+
+Summary:
+My part 3 line plot visualization are based on the rank given from part 2 heatmap, the source information are all from OECD web page for government debt, my choice of part 3 are meant to explore the trend of these among the highest average debt-to-gdp ratio as well as how global financial crisis starting on September 2008 might affect these countries' average debt-to-gdp ratio, l found out that except Greece and Italian, the other four countries are impacted significantly by the financial crisis, Japan is the country seems to stuggle the most from debt, part 2 heatmap,in other side, are drawing ranks of each countries in terms of their average debt-to-gdp ratio, there are too many countries presenting here, so it will be a bit difficult for the audience to get important information at first glance, that's why l choose part 3 line part to go in-depth of my interested topic.
+
 ## Assignment 1&2: [XXXX](XXXXXXX)
 For this assignment, XXXXXXXX 
 
