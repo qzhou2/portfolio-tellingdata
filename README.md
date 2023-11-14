@@ -52,11 +52,18 @@ I also intentionally use dotted line instead of solid line to be more visual-fri
 Summary:
 My part 3 line plot visualization are based on the rank given from part 2 heatmap, the source information are all from OECD web page for government debt, my choice of part 3 are meant to explore the trend of these among the highest average debt-to-gdp ratio as well as how global financial crisis starting on September 2008 might affect these countries' average debt-to-gdp ratio, l found out that except Greece and Italian, the other four countries are impacted significantly by the financial crisis, Japan is the country seems to stuggle the most from debt, part 2 heatmap,in other side, are drawing ranks of each countries in terms of their average debt-to-gdp ratio, there are too many countries presenting here, so it will be a bit difficult for the audience to get important information at first glance, that's why l choose part 3 line part to go in-depth of my interested topic.
 
-## Assignment 1&2: [XXXX](XXXXXXX)
-For this assignment, XXXXXXXX 
 
-## Assignment 3&4: [XXXXXXX](XXXXXXXX)
-For this assignment, XXXXXXXX
+## Assignment 3&4: Critique by Design with Tableau (MakeoverMonday)
+So my revised visualization will be
+<div class='tableauPlaceholder' id='viz1699941658982' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34fortellingstorydata&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34fortellingstorydata&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34fortellingstorydata&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1699941658982');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='800px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='800px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+</script>
 
 ## Final project
 [Part I](final-project-part-one)
