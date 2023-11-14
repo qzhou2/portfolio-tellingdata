@@ -54,8 +54,8 @@ My part 3 line plot visualization are based on the rank given from part 2 heatma
 
 
 ## Assignment 3&4: [assignment 3&4](Critique by Design with Tableau (MakeoverMonday))
-You can find the graph and written summary of this assignment on above tab 'Assignment 3&4'
-<img width="416" alt="Screenshot 2023-11-14 at 2 30 52 AM" src="https://github.com/qzhou2/portfolio-tellingdata/assets/122907703/6c53f939-7a04-4ded-b9d4-39e18cb3a6d9">, so you can simply tap into this link: https://qzhou2.github.io/portfolio-tellingdata/MakeoverMonday.html
+You can find the graph and written summary of this assignment on above tab 'assignment 3&4'
+<img width="416" alt="Screenshot 2023-11-14 at 2 30 52 AM" src="https://github.com/qzhou2/portfolio-tellingdata/assets/122907703/6c53f939-7a04-4ded-b9d4-39e18cb3a6d9">, or you can simply tap into this link: https://qzhou2.github.io/portfolio-tellingdata/MakeoverMonday.html
 
 So my revised visualization will be
 <div class='tableauPlaceholder' id='viz1699941658982' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34fortellingstorydata&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34fortellingstorydata&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34fortellingstorydata&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
