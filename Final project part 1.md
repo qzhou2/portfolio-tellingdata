@@ -42,6 +42,7 @@ eating decisions and policy development.
 - *Usage Plan*: The dataset will be used to extract and analyze key nutritional information from MacDonald, l will use visualizations to get insights aiming to reveal the hidden dietary aspects of McDonald.
 
 ***Method and medium***
+
 Shorthand will be used to develop this project to create an informative and engaging narrative. Infographics, interactive charts, and descriptive text will convey my story of the nutrition breakdown of McDonald.
 
   
