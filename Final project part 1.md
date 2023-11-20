@@ -39,10 +39,10 @@ eating decisions and policy development.
 ***Data***
 
 - *Data Source*: The project will utilize a public-available dataset, https://www.kaggle.com/datasets/mcdonalds/nutrition-facts, which title, 'Nutrition Facts for McDonald's Menu'
-- *Usage Plan*: The dataset will be used to extract and analyze key nutritional information from MacDonald, l will use visualizations to get insights aiming to reveal the hidden dietary aspects of McDonald.
+- *Usage Plan*: This dataset has nutritional information including but not limited to calorie content, total fat, sugar, as well as protein values of each item available on the menu. Our target is to provide an analytical story for demonstrating the nutritional aspects of MacDonald food consumption. By getting insight from the detailed breakdown of nutritional components from each food category, l will explore the impact of these foods on our dietary habits and health.
 
 ***Method and medium***
 
-Shorthand will be used to develop this project to create an informative and engaging narrative. Infographics, interactive charts, and descriptive text will convey my story of the nutrition breakdown of McDonald.
+I will use Shorthand as the platform to develop this project for the purpose of creating an informative and engaging story narrative. Infographics, interactive charts, and descriptive text will be utilized in this platform to convey my story of the nutrition breakdown of McDonald.
 
   
