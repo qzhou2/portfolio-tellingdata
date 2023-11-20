@@ -28,7 +28,7 @@ eating decisions and policy development.
 
 - *One-Sentence Summary*: this project will demonstrate the nutritional narrative of McDonald's menu, l will dive into caloric and macronutrient profiles to equip consumers and policy makers with actionable insights for nutritional choices in Macdonald.
 
-***Initial Sketches***
+**Initial Sketches**
 
 <img width="698" alt="Screenshot 2023-11-19 at 3 50 49 PM" src="https://github.com/qzhou2/portfolio-tellingdata/assets/122907703/716751f1-be7b-47f5-ad64-09842ad1a05c">
 
@@ -36,12 +36,12 @@ eating decisions and policy development.
 
 <img width="703" alt="Screenshot 2023-11-19 at 3 55 31 PM" src="https://github.com/qzhou2/portfolio-tellingdata/assets/122907703/51b4376b-d408-4e99-b312-acdd8e56414b">
 
-***Data***
+**Data**
 
 - *Data Source*: The project will utilize a public-available dataset, https://www.kaggle.com/datasets/mcdonalds/nutrition-facts, which title, 'Nutrition Facts for McDonald's Menu'
 - *Usage Plan*: This dataset has nutritional information including but not limited to calorie content, total fat, sugar, as well as protein values of each item available on the menu. Our target is to provide an analytical story for demonstrating the nutritional aspects of MacDonald food consumption. By getting insight from the detailed breakdown of nutritional components from each food category, l will explore the impact of these foods on our dietary habits and health.
 
-***Method and medium***
+**Method and medium**
 
 I will use Shorthand as the platform to develop this project for the purpose of creating an informative and engaging story narrative. Infographics, interactive charts, and descriptive text will be utilized in this platform to convey my story of the nutrition breakdown of McDonald.
 
