@@ -6,13 +6,9 @@
 <img width="541" alt="Screenshot 2023-11-27 at 12 34 40 AM" src="https://github.com/qzhou2/portfolio-tellingdata/assets/122907703/c4629bd0-0460-426a-932a-81cb3c596660">
 
 The four bar charts display the average nutrition regarding calories, total fat, sugars, and protein across different menu categories from MacDonald, 
-
 each bar plot have a recommended daily intake line and value labels for clarity.
 
-the maximum caloric content by menu category plot shows the highest calorie content in each category, marked against the recommended daily calorie intake, l also have value labels on each bar.
-
-Macronutrient Distribution for 'Big Mac' plot has a pie chart illustrating the macronutrient breakdown of the 'Big Mac'.
-
+The maximum caloric content by menu category plot shows the highest calorie content in each category, marked against the recommended daily calorie intake, l also have value labels on each bar.Macronutrient Distribution for 'Big Mac' plot has a pie chart illustrating the macronutrient breakdown of the 'Big Mac'.
 Summary and Recommendations Placeholder will be my placeholder for summarizing key findings and dietary recommendations based on visualizations and guiding the audience toward healthier choices.
 
 
