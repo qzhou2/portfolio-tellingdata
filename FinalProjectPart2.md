@@ -12,30 +12,25 @@ Summary and Recommendations Placeholder will be my placeholder for summarizing k
 
 **User research and interviews**
 
-*Target audience*:
-
+***Target audience***:
 my primary target audiences are health-conscious consumers who have strong interested in understanding the nutritional content of fast food, like Macdonald is a fast food chain that literally all over the place, this project aims at advising them on dietary choices.
 
-*Approach for me to identifying interviewees*: 
-
+***Approach for me to identifying interviewees***: 
 to capture my target audience, the interviewees will be selected if they frequently consume fast-food but do care about the nutritions they got:
 
-*Interview script*:
-
+***Interview script***:
 "What are your initial thoughts on the visualizations presented?"
 "Do you find the information on these charts easy to comprehend?"
 "Is there any additional data or feature you think could enhance these visualizations?"
 "How likely are you to use this information in your daily life or professional practice?"
 "Do you have any suggestions for improving elements such as layout, design of these charts?"
 
-*Key findings from interviews*:
-
+***Key findings from interviews***:
 Student,mid 20s: "I like how the charts are easy to understand. However, I wish there was a way to filter items based on specific dietary needs such as vegan or gluten-free."
 Nutritionist, early 40s: "The visualizations are informative overall, it would be great for you to have more detailed breakdowns of micronutrients such as vitamins and minerals."
 Bodybuilder, early 30s : "The comparison of nutritional content with recommended values is useful and intuitive,  maybe you can consider adding a section explaining how fast food consumption can affects health and more instructive sentences to inform the audience your findings."
 
-Planned changes based on feedbacks l had from my interviewees:
-
+***Planned changes based on feedbacks l had from my interviewees***:
 l will consider adding filters for dietary preferences like vegan, low-carb, or gluten-free, l can also include more detailed information on micronutrients like minerals, a more well-developed section that discusses the broader health impacts of fast food consumption can be useful to enrich my topics.
 
 
