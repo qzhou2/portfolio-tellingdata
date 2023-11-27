@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [assignment 1&2](XXXXX) | [assignment 3&4](MakeoverMonday.md) | [final project part I](FinalProjectPart1.md) | [final project II](FinalProjectPart2.md) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [assignment 1&2](XXXXX) | [assignment 3&4](MakeoverMonday.md) | [final project part I](FinalProjectPart1.md) | [final project part II](FinalProjectPart2.md) | [final project III](final-project-part-three) |
 
 # TSWD-portfolio-templates
 Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
