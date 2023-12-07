@@ -18,4 +18,4 @@ my analysis will give my target audience a reference when they want to indulge i
 
 ***Link to Shorthand storyboard***
 
-https://preview.shorthand.com/Aa9SULXgAfw4cS6D
+[https://preview.shorthand.com/Aa9SULXgAfw4cS6D](https://carnegiemellon.shorthandstories.com/choose-the-macdonald-meal-with-nutritional-consideration/index.html)https://carnegiemellon.shorthandstories.com/choose-the-macdonald-meal-with-nutritional-consideration/index.html
