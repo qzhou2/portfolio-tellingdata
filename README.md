@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [assignment 1&2](XXXXX) | [assignment 3&4](MakeoverMonday.md) | [final project part I](FinalProjectPart1.md) | [final project part II](FinalProjectPart2.md) | [final project III](FinalProjectPart3.md) |
+| [assignment 1&2](XXXXX) | [assignment 3&4](MakeoverMonday.md) | [final project part I](FinalProjectPart1.md) | [final project part II](FinalProjectPart2.md) | [final project III](FinalProjectPart3.md) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
